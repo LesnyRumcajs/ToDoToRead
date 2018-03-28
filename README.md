@@ -8,3 +8,7 @@ Dump / wishlist
 *Tutorials:*
 
 - [ ] Bash Scripting Tutorial: https://ryanstutorials.net/bash-scripting-tutorial/
+
+*Online courses:*
+
+- [ ] How to Win Coding Competitions: Secrets of Champions: https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+1T2018/
