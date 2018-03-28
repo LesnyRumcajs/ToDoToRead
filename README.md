@@ -8,6 +8,7 @@ Dump / wishlist
 *Tutorials:*
 
 - [ ] Bash Scripting Tutorial: https://ryanstutorials.net/bash-scripting-tutorial/
+- [ ] Rust By Example: https://rustbyexample.com/
 
 *Online courses:*
 
