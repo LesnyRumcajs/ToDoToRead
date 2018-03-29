@@ -13,3 +13,7 @@ Dump / wishlist
 *Online courses:*
 
 - [ ] How to Win Coding Competitions: Secrets of Champions: https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+1T2018/
+
+*Software:*
+
+- [ ] Oni (text editor): https://github.com/onivim/oni
