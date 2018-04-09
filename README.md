@@ -10,6 +10,7 @@ Dump / wishlist
 
 - [ ] Bash Scripting Tutorial: https://ryanstutorials.net/bash-scripting-tutorial/
 - [ ] Rust By Example: https://rustbyexample.com/
+- [ ] Interactive Rust Tutorial: https://github.com/toidiu/learn-rust
 
 *Online courses:*
 
