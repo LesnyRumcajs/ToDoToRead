@@ -18,3 +18,7 @@ Dump / wishlist
 *Software:*
 
 - [ ] Oni (text editor): https://github.com/onivim/oni
+
+*Libraries:*
+
+- [ ] Vundle: https://github.com/VundleVim/Vundle.vim
