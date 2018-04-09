@@ -23,3 +23,4 @@ Dump / wishlist
 *Libraries:*
 
 - [ ] Vundle: https://github.com/VundleVim/Vundle.vim
+- [ ] Moose: http://moosetechnology.org/ along with http://scg.unibe.ch/download/merino/roassal-tutorial/tutorial.html
