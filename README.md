@@ -28,3 +28,7 @@ Dump / wishlist
 
 - [ ] Vundle: https://github.com/VundleVim/Vundle.vim
 - [ ] Moose: http://moosetechnology.org/ along with http://scg.unibe.ch/download/merino/roassal-tutorial/tutorial.html
+
+*Challenges:*
+
+- [ ] Command line challenge: https://cmdchallenge.com/
