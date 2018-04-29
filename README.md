@@ -28,6 +28,7 @@ Dump / wishlist
 
 - [ ] Vundle: https://github.com/VundleVim/Vundle.vim
 - [ ] Moose: http://moosetechnology.org/ along with http://scg.unibe.ch/download/merino/roassal-tutorial/tutorial.html
+- [ ] Scapy: https://scapy.readthedocs.io/en/latest/index.html
 
 *Challenges:*
 
