@@ -8,10 +8,10 @@ Dump / wishlist
 
 *Tutorials:*
 
-- [x] Bash Scripting Tutorial: https://ryanstutorials.net/bash-scripting-tutorial/
 - [ ] Rust By Example: https://rustbyexample.com/
 - [ ] Interactive Rust Tutorial: https://github.com/toidiu/learn-rust
 - [ ] Gentle Introduction To Rust: https://stevedonovan.github.io/rust-gentle-intro/
+- [x] Bash Scripting Tutorial: https://ryanstutorials.net/bash-scripting-tutorial/
 
 *Online courses:*
 
