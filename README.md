@@ -32,4 +32,4 @@ Dump / wishlist
 
 *Challenges:*
 
-- [ ] Command line challenge: https://cmdchallenge.com/
+- [x] Command line challenge: https://cmdchallenge.com/
