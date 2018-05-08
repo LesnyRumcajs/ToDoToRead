@@ -33,4 +33,5 @@ Dump / wishlist
 
 *Challenges:*
 
+- [ ] Programming challenges: http://www3.cs.stonybrook.edu/~skiena/392/
 - [x] Command line challenge: https://cmdchallenge.com/
