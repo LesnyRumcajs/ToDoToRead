@@ -18,8 +18,9 @@ Dump / wishlist
 - [ ] How to Win Coding Competitions: Secrets of Champions: https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+1T2018/
 - [ ] Practical Deep Learning for Coders: http://course.fast.ai/index.html
 
-*Playlists:*
+*Videos:*
 - [ ] Efficient programming with components: https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
+- [ ] How to adopt modern C++17 into your C++ code: https://www.youtube.com/watch?v=UsrHQAzSXkA
 
 *Software:*
 
