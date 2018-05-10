@@ -20,7 +20,7 @@ Dump / wishlist
 
 *Videos:*
 - [ ] Efficient programming with components: https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
-- [ ] How to adopt modern C++17 into your C++ code: https://www.youtube.com/watch?v=UsrHQAzSXkA
+- [ ] Herb Sutter - How to adopt modern C++17 into your C++ code: https://www.youtube.com/watch?v=UsrHQAzSXkA
 
 *Software:*
 
