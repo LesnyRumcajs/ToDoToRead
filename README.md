@@ -27,7 +27,7 @@ Dump / wishlist
 
 - [ ] Oni (text editor): https://github.com/onivim/oni
 - [ ] Task Warrior (Task manager): https://taskwarrior.org/ 
-- [x] Asciinema: https://asciinema.org/
+- [x] Asciinema (Terminal session recording): https://asciinema.org/
 
 *Libraries:*
 
