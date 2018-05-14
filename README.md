@@ -42,3 +42,7 @@ Dump / wishlist
 
 - [ ] Programming challenges: http://www3.cs.stonybrook.edu/~skiena/392/
 - [x] Command line challenge: https://cmdchallenge.com/
+
+*Articles:*
+
+- [ ] Smart Pointer Programming Techniques: https://www.boost.org/doc/libs/1_54_0/libs/smart_ptr/sp_techniques.html
