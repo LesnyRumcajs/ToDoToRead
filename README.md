@@ -24,6 +24,7 @@ Dump / wishlist
 - [ ] (CppCon2016) Herb Sutter - Leak-Freedom in C++... By Default. : https://www.youtube.com/watch?v=JfmTagWcqoE
 - [ ] (CppCon2014) Herb Sutter - Back to the Basics! Essentials of Modern C++ Style : https://www.youtube.com/watch?v=xnqTKD8uD64
 - [ ] (CppCon2017) Kate Gregory - 10 Core Guidelines You Need to Start Using Now: https://www.youtube.com/watch?v=XkDEzfpdcSg
+- [ ] (CppCon 2016): Chandler Carruth - Garbage In, Garbage Out: Arguing about Undefined Behavior...: https://www.youtube.com/watch?v=yG1OZ69H_-o
 
 *Software:*
 
