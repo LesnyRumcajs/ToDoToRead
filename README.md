@@ -22,6 +22,7 @@ Dump / wishlist
 - [ ] Efficient programming with components: https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
 - [x] Herb Sutter - How to adopt modern C++17 into your C++ code: https://www.youtube.com/watch?v=UsrHQAzSXkA
 - [ ] Herb Sutter - Leak-Freedom in C++... By Default. : https://www.youtube.com/watch?v=JfmTagWcqoE
+- [ ] Herb Sutter - Back to the Basics! Essentials of Modern C++ Style : https://www.youtube.com/watch?v=xnqTKD8uD64
 
 *Software:*
 
