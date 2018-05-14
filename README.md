@@ -20,9 +20,10 @@ Dump / wishlist
 
 *Videos:*
 - [ ] Efficient programming with components: https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
-- [x] Herb Sutter - How to adopt modern C++17 into your C++ code: https://www.youtube.com/watch?v=UsrHQAzSXkA
-- [ ] Herb Sutter - Leak-Freedom in C++... By Default. : https://www.youtube.com/watch?v=JfmTagWcqoE
-- [ ] Herb Sutter - Back to the Basics! Essentials of Modern C++ Style : https://www.youtube.com/watch?v=xnqTKD8uD64
+- [x] (MS Build 2018) Herb Sutter - How to adopt modern C++17 into your C++ code: https://www.youtube.com/watch?v=UsrHQAzSXkA
+- [ ] (CppCon2016) Herb Sutter - Leak-Freedom in C++... By Default. : https://www.youtube.com/watch?v=JfmTagWcqoE
+- [ ] (CppCon2014) Herb Sutter - Back to the Basics! Essentials of Modern C++ Style : https://www.youtube.com/watch?v=xnqTKD8uD64
+- [ ] (CppCon2017) Kate Gregory - 10 Core Guidelines You Need to Start Using Now: https://www.youtube.com/watch?v=XkDEzfpdcSg
 
 *Software:*
 
