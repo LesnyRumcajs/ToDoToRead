@@ -26,7 +26,8 @@ Dump / wishlist
 *Software:*
 
 - [ ] Oni (text editor): https://github.com/onivim/oni
-- [ ] Task Warrior (Task manager): https://taskwarrior.org/ 
+- [ ] Task Warrior (Task manager): https://taskwarrior.org/
+- [ ] Progress (progress monitor for cp / mv ... ): https://www.tecmint.com/progress-monitor-check-progress-of-linux-commands/
 - [x] Asciinema (Terminal session recording): https://asciinema.org/
 
 *Libraries:*
