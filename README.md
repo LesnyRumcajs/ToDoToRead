@@ -49,3 +49,4 @@ Dump / wishlist
 *Articles:*
 
 - [ ] Smart Pointer Programming Techniques: https://www.boost.org/doc/libs/1_54_0/libs/smart_ptr/sp_techniques.html
+- [ ] Tearing apart printf(): http://www.maizure.org/projects/printf/index.html
