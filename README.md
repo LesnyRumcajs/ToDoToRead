@@ -30,11 +30,11 @@ Dump / wishlist
 *Software:*
 
 - [ ] Oni (text editor): https://github.com/onivim/oni
-- [x] Task Warrior (Task manager): https://taskwarrior.org/
 - [ ] Progress (progress monitor for cp / mv ... ): https://www.tecmint.com/progress-monitor-check-progress-of-linux-commands/
 - [ ] Kitty (GPU based terminal emulator): https://github.com/kovidgoyal/kitty
 - [ ] ShellCheck (Shell Linter): https://github.com/koalaman/shellcheck/
 - [x] Asciinema (Terminal session recording): https://asciinema.org/
+- [x] Task Warrior (Task manager): https://taskwarrior.org/
 
 *Libraries:*
 
