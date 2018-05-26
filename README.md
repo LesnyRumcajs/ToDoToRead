@@ -17,6 +17,7 @@ Dump / wishlist
 
 - [ ] How to Win Coding Competitions: Secrets of Champions: https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+1T2018/
 - [ ] Practical Deep Learning for Coders: http://course.fast.ai/index.html
+- [ ] LinuxAcademy: Linux Foundation Certified System Administrator (v3.18): https://linuxacademy.com/cp/modules/view/id/173
 
 *Videos:*
 - [ ] Efficient programming with components: https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
