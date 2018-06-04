@@ -5,6 +5,7 @@ Dump / wishlist
 
 - [ ] Practical Vim: Edit Text at the Speed of Thought: https://www.amazon.de/exec/obidos/ASIN/1680501275/iccfholland04
 - [ ] tmux 2: Productive Mouse-Free Development: https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/
+- [ ] Beginning Julia Programming: For Engineers and Scientists (skillport)
 
 *Tutorials:*
 
