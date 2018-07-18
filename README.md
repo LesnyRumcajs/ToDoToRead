@@ -7,6 +7,7 @@ Dump / wishlist
 - [ ] tmux 2: Productive Mouse-Free Development: https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/
 - [ ] Beginning Julia Programming: For Engineers and Scientists (skillport)
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship
+- [ ] Assembly language for beginners: https://yurichev.com/writings/AL4B-EN.pdf
 
 *Tutorials:*
 
