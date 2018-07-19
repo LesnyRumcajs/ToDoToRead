@@ -45,6 +45,7 @@ Dump / wishlist
 - [ ] Moose: http://moosetechnology.org/ along with http://scg.unibe.ch/download/merino/roassal-tutorial/tutorial.html
 - [ ] Scapy: https://scapy.readthedocs.io/en/latest/index.html
 - [ ] C++ Web Toolkit: https://www.webtoolkit.eu/wt
+
 *Challenges:*
 
 - [ ] Programming challenges: http://www3.cs.stonybrook.edu/~skiena/392/
